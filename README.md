@@ -1,5 +1,5 @@
 # 31-79JGb215 (shrink-ray)
-desktop app for video file compression to a specific size, because size limits are annoying
+*tiny* desktop app for video file compression targeted to a specified size, because size limits are annoying
 
 ffmpeg required
 
